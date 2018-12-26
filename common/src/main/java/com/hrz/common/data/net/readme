@@ -1,0 +1,6 @@
+Glide中的okhttp请求图片需要进一步优化
+OkHttpUrlLoader    url加载器
+OkHttpStreamFetcher 流解析抓取器
+
+
+网络请求需要拦截器
